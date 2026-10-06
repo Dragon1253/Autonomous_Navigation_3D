@@ -1,0 +1,4 @@
+seed,outcome,steps,return,start_goal_distance_m,final_goal_distance_m,path_length_m,path_efficiency,min_clearance_m,mean_clearance_m,max_danger,mean_ttc_penalty,mean_abs_turn,mean_action_change,reverse_fraction,turn_fraction
+10000,success,319,94.744,6.577,0.45,7.562,0.87,0.029,0.58,0.982,0.279,0.357,0.294,0.116,0.577
+10001,collision,341,-66.076,9.513,4.319,6.317,1.506,-0.008,0.505,0.99,0.213,0.334,0.383,0.103,0.522
+10002,success,313,136.501,6.801,0.426,6.698,1.015,0.132,0.663,0.822,0.202,0.246,0.265,0.067,0.348

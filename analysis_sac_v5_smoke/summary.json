@@ -1,0 +1,49 @@
+{
+  "episodes": 1,
+  "level": 15,
+  "base_seed": 10000,
+  "requested": {
+    "n_static": [
+      20,
+      30
+    ],
+    "n_dyn": [
+      10,
+      15
+    ],
+    "speed": [
+      0.7,
+      0.8
+    ],
+    "perturb_prob": 0.25,
+    "min_goal": 6.0
+  },
+  "counts": {
+    "success": 1,
+    "collision": 0,
+    "timeout": 0
+  },
+  "rates": {
+    "success": 1.0,
+    "collision": 0.0,
+    "timeout": 0.0
+  },
+  "mean": {
+    "steps": 319.0,
+    "return": 30.174,
+    "start_goal_distance_m": 6.577,
+    "final_goal_distance_m": 0.442,
+    "path_length_m": 7.912,
+    "path_efficiency": 0.831,
+    "actual_static": 12.0,
+    "actual_dynamic": 11.0,
+    "actual_total": 23.0,
+    "min_clearance_m": 0.053,
+    "mean_clearance_m": 0.351,
+    "max_danger": 0.927,
+    "mean_abs_speed_action": 0.77,
+    "mean_abs_turn": 0.44,
+    "mean_action_change": 0.298,
+    "reverse_fraction": 0.119
+  }
+}

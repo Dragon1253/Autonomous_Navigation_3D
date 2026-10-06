@@ -1,0 +1,31 @@
+{
+  "episodes": 100,
+  "level": 15,
+  "base_seed": 10000,
+  "counts": {
+    "success": 67,
+    "collision": 28,
+    "timeout": 5
+  },
+  "rates": {
+    "success": 0.67,
+    "collision": 0.28,
+    "timeout": 0.05
+  },
+  "mean": {
+    "steps": 357.71,
+    "return": 61.3319,
+    "start_goal_distance_m": 7.4427,
+    "final_goal_distance_m": 1.5088,
+    "path_length_m": 7.5702,
+    "path_efficiency": 1.2428,
+    "min_clearance_m": 0.0839,
+    "mean_clearance_m": 0.5718,
+    "max_danger": 0.8635,
+    "mean_ttc_penalty": 0.2194,
+    "mean_abs_turn": 0.327,
+    "mean_action_change": 0.2953,
+    "reverse_fraction": 0.1123,
+    "turn_fraction": 0.4778
+  }
+}

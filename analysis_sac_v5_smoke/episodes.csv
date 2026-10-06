@@ -1,0 +1,2 @@
+seed,outcome,steps,return,start_goal_distance_m,final_goal_distance_m,path_length_m,path_efficiency,requested_static_range,requested_dynamic_range,actual_static,actual_dynamic,actual_total,min_clearance_m,mean_clearance_m,max_danger,mean_abs_speed_action,mean_abs_turn,mean_action_change,reverse_fraction
+10000,success,319,30.174,6.577,0.442,7.912,0.831,20-30,10-15,12,11,23,0.053,0.351,0.927,0.77,0.44,0.298,0.119

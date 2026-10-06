@@ -1,0 +1,5 @@
+pybullet>=3.2.5
+gymnasium>=0.29
+numpy>=1.24
+stable-baselines3>=2.2.1
+sb3-contrib>=2.2.1

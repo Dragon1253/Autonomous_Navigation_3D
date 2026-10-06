@@ -1,0 +1,2 @@
+seed,outcome,steps,return,start_goal_distance_m,final_goal_distance_m,path_length_m,path_efficiency,requested_static_range,requested_dynamic_range,actual_static,actual_dynamic,actual_total,min_clearance_m,mean_clearance_m,max_danger,mean_abs_speed_action,mean_abs_turn,mean_action_change,reverse_fraction
+10028,collision,56,-108.455,8.748,8.749,0.802,10.905,20-30,10-15,16,13,29,-0.001,0.538,0.982,0.577,0.743,0.28,0.5
